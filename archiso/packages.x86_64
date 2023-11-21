@@ -920,4 +920,4 @@ xfce4-goodies
 linux-xanmod
 linux-xanmod-headers
 
-mkinitcpio-firmware
+#mkinitcpio-firmware
